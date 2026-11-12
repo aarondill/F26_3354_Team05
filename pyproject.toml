@@ -1,0 +1,6 @@
+[project]
+name = "LOTO_System"
+version = "0"
+
+[dependency-groups]
+dev = ["pytest"]
